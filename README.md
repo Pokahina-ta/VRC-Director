@@ -14,7 +14,6 @@ VRChatのカメラ撮影とOBS録画を操作するWindowsアプリです。
 ## プロジェクトの分離
 
 従来の統合版から撮影機能を分離し、VRC Director 1.0として再スタートしました。
-Fakeデスクトップ・FakeVRは、別アプリ「VRC Desktop Bridge」として開発しています。このVRC Directorには含まれません。
 
 ## はじめかた
 
